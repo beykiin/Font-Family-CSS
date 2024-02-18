@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@1&display=swap');
+
+.font5{
+    font-family: "Alumni Sans Collegiate One";
+    font-size: 30px; /* Yazı boyutu */
+}
+.font3{
+    font-family: "Alumni Sans Collegiate One";
+    font-size: 4em; /* 1em'in değeri 16px ile eşittir. 1rem ise em ile aynıdır ve birde px ve % olarak yazılabilir.*/
+}
